@@ -1,0 +1,80 @@
+body {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.img-home {
+    width: 450px;
+    height: 250px;
+}
+
+.img-login {
+    width: 275px;
+    height: 130px;
+}
+
+.style-hr-1 {
+    padding: 0;
+    border: none;
+    border-top: medium double rgb(148, 2, 2);
+    color: #333;
+    text-align: center;
+}
+
+.style-hr-1:after {
+    content: "Please Login";
+    display: inline-block;
+    position: relative;
+    top: -0.9em;
+    font-size: 2em;
+    padding: 0 0.25em;
+    background: rgb(212, 4, 4);
+    color: rgb(22, 255, 22);
+    box-shadow: 5px 5px 5px 5px rgb(124, 59, 6);
+    border-radius: 20px;
+    padding: 0px 20px 0px 20px;
+}
+
+.style-hr-2 {
+    height: 30px;
+    border-style: solid;
+    border-color: rgb(138, 1, 1);
+    border-width: 4px 0 0 0;
+    border-radius: 20px;
+}
+
+.style-hr-2:before {
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+}
+
+.judul {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(97, 1, 1);
+}
+
+.nama {
+    font-family: Andalus;
+    font-weight: bold;
+}
+
+.nirm {
+    font-family: Andalus;
+    font-weight: 800;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(46, 126, 0);
+    color: white;
+    text-align: center;
+}
