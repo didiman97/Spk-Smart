@@ -1,6 +1,6 @@
 # Spk-Smart
 # Jika Ingin Bertanya Bisa Email saya di didimannasralaia@gmail.com
-#Subjek Gmail Github
+# Subjek Gmail Github
 
 ![login](https://user-images.githubusercontent.com/49117483/196205517-a1a625de-df45-4191-a20f-313d0319fdeb.PNG)
 
